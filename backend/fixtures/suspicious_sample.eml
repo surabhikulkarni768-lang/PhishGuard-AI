@@ -1,0 +1,20 @@
+From: "Amazon" <orders@amaz0n-deals.xyz>
+To: user@example.com
+Subject: Your order has been placed - Verify your payment details
+Date: Wed, 15 May 2024 14:30:00 +0000
+Message-ID: <order123@amaz0n-deals.xyz>
+Authentication-Results: mail.example.com; spf=softfail smtp.mailfrom=amaz0n-deals.xyz
+
+Dear Valued Customer,
+
+Thank you for your recent purchase on Amazon.
+
+Your order #ABC-12345 is being processed. To confirm your order and prevent account suspension, please verify your payment information within 48 hours.
+
+Update your payment details here: https://amaz0n-deals.xyz/account/verify-payment
+
+If you do not update your information, your order may be cancelled.
+
+For security reasons, please also confirm your account password and billing address.
+
+Amazon Customer Service

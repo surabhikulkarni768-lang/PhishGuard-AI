@@ -1,0 +1,24 @@
+From: Newsletter <newsletter@trusted-company.com>
+To: user@example.com
+Subject: Your monthly newsletter - June 2024
+Date: Sat, 1 Jun 2024 10:00:00 +0000
+Message-ID: <newsletter-june@trusted-company.com>
+Authentication-Results: mail.example.com; spf=pass smtp.mailfrom=trusted-company.com; dkim=pass header.d=trusted-company.com; dmarc=pass
+
+Hello,
+
+Here is your monthly newsletter from Trusted Company.
+
+This month's highlights:
+- New product launches
+- Company news
+- Industry updates
+
+Visit our website at https://www.trusted-company.com for more information.
+
+To unsubscribe, click here: https://www.trusted-company.com/unsubscribe
+
+Best regards,
+The Newsletter Team
+Trusted Company
+123 Business Street, City, Country

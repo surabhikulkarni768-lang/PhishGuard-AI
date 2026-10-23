@@ -1,0 +1,31 @@
+From: PayPal Security <security@paypa1-verify.tk>
+To: victim@example.com
+Subject: URGENT: Your PayPal account has been suspended - Action Required!
+Date: Mon, 1 Jan 2024 09:00:00 +0000
+Message-ID: <fake123@paypa1-verify.tk>
+Reply-To: collect@suspicious-harvester.xyz
+Return-Path: <bounce@paypa1-verify.tk>
+Authentication-Results: mail.example.com; spf=fail smtp.mailfrom=paypa1-verify.tk; dkim=fail header.d=paypa1-verify.tk; dmarc=fail
+
+Dear PayPal Customer,
+
+URGENT ACTION REQUIRED: Your PayPal account has been suspended due to unusual activity detected on your account.
+
+Your account will be PERMANENTLY CLOSED within 24 hours if you do not verify your information immediately.
+
+Click here to verify your account: http://paypal-secure-verify.xyz/login?ref=account_suspended
+
+Please provide the following information to restore your account:
+- Full name
+- Password
+- Credit card number
+- Bank account details
+- Social Security Number (SSN)
+- One-Time Password (OTP) from your authenticator app
+
+This is your LAST CHANCE to save your account. Act now before it expires!
+
+If you believe this is a mistake, please call our fake support line.
+
+"Security" Team
+PayPal (not the real one)
